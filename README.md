@@ -36,4 +36,6 @@ END $$
 
 DELIMITER ;
 
+Después de crear la tabla, insertar los datos, y definir la función y el procedimiento, puedes ejecutar el procedimiento para actualizar las edades
+
 ![image](https://github.com/user-attachments/assets/6e37b163-07f4-43b6-83d4-c64e6985f61c)
