@@ -1,5 +1,8 @@
 Objetivo: Actualizar la edad de todos los usuarios en la base de datos 
-![image](https://github.com/user-attachments/assets/f242b40d-f0a9-42e9-af5c-52c9f4216a8d)
+
+![image](https://github.com/user-attachments/assets/afb7ec99-432c-4743-8302-299ca084e382)
+
+
 funciona con esta tabla
 
 
