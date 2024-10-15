@@ -1,9 +1,10 @@
-Objetivo: Actualizar la edad de todos los usuarios en la base de datos 
+Objetivo: Actualizar la edad de todos los usuarios en la base de datos
+funciona con esta tabla
 
 ![image](https://github.com/user-attachments/assets/afb7ec99-432c-4743-8302-299ca084e382)
 
 
-funciona con esta tabla
+
 
 
 DELIMITER $$
